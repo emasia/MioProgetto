@@ -4,7 +4,7 @@ class JConfig {
 	public $offline_message = 'Sito fuori servizio per manutenzione.<br /> Riprovare più tardi.';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = 'Luxemburg2.0';
+	public $sitename = 'IIS Cooernico-Luxemburg';
 	public $editor = 'tinymce';
 	public $captcha = '0';
 	public $list_limit = '20';
